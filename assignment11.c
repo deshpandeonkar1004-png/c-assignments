@@ -1,0 +1,104 @@
+#include<stdio.h>
+//Q1
+/*
+int main(){
+    int i=1;
+    while(i<=5){
+        printf("MySirG\n");
+        i++;
+    }
+    return 0;
+}
+
+//Q2
+int main(){
+    int i=1;
+    while(i<=10){
+        printf("%d\n",i);
+        i++;
+    }
+    return 0;
+}
+
+//Q3
+int main(){
+    int i=10;
+    while(i>=1){
+        printf("%d\n",i);
+        i--;
+    }
+    return 0;
+    
+}*/
+/*
+//Q4
+int main(){
+    int i=1;
+    while(i<=10){
+        printf("%d\n",i);
+        i=i+2;
+    }
+    return 0;
+}
+    */
+    /*
+//Q5
+int main(){
+    int i=2;
+    while(i<=10){
+        printf("%d\n",i);
+        i=i+2;
+    }
+    return 0;
+}*/
+//Q6
+/*
+int main(){
+    int i=9;
+    while(i>=1){
+        printf("%d\n",i);
+        i=i-2;
+    }
+    return 0;
+}
+//Q7
+/*
+int main(){
+    int i=10;
+    while(i>=2){
+        printf("%d\n",i);
+        i=i-2;
+    }
+    return 0;
+}
+
+//Q8
+int main(){
+    int i=1;
+    while(i<=10){
+        printf("%d\n",i*i);
+        i++;
+    }
+    return 0;
+}
+//Q9
+int main (){
+    int i=1;
+    while(i<=10){
+        printf("%d\n",i*i*i);
+        i++;
+    }
+    return 0;
+}
+  
+//Q10
+int main() {
+    int i=1,n=5;
+    while(i<=10){
+        printf("%d*%d=%d\n",n,i,n*i);
+        i++;
+    }
+    return 0;
+}
+  */
+
