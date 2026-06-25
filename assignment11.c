@@ -52,12 +52,12 @@ int main(){
     return 0;
 }*/
 //Q6
-/*
+
 int main(){
-    int i=9;
+    int i=10;
     while(i>=1){
-        printf("%d\n",i);
-        i=i-2;
+        printf("%d\n",2*i-1);
+        i--;
     }
     return 0;
 }
@@ -101,4 +101,3 @@ int main() {
     return 0;
 }
   */
-
